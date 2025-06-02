@@ -6,3 +6,6 @@
 
 ### There were a few parts of the lab that I found particularly challenging. One major difficulty was working with CSS. It took considerable time and effort to get the layout and design to look the way I intended. Sometimes, styles didn’t behave as expected, and I had to experiment and research various solutions to resolve those issues.
 ### Another challenge was implementing local storage. I initially struggled with properly storing and retrieving data.
+
+## Deployment link 
+https://jawharayahya.github.io/crazy-meal/
